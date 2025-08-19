@@ -1,0 +1,16 @@
+# Java build folders
+wrapper/target/
+wrapper/bin/
+*.class
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Node / frontend build folders
+taskmanager/node_modules/
+taskmanager/build/
